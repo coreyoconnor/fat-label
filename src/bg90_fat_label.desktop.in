@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Fat Label
+Comment=Displays custom text in a large font. Add as many as you want!
+Type=default
+X-Path=lib_bg90_fat_label.so
+X-Multiple=true
+

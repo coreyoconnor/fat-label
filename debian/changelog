@@ -1,0 +1,18 @@
+fat-label (0.3) unstable; urgency=low
+
+  * Fixed memory leak of widget private data
+  * uses gconf for the value of the displayed text. 
+
+ -- Corey O'Connor <coreyoconnor@gmail.com>  Sat,  12 Dec 2009 10:45:08 -0800
+
+fat-label (0.2) unstable; urgency=low
+
+  * Fixed memory leak of cairo context.
+
+ -- Corey O'Connor <coreyoconnor@gmail.com>  Fri,  10 Dec 2009 10:45:08 -0800
+
+fat-label (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Corey O'Connor <coreyoconnor@gmail.com>  Sat,  5 Dec 2009 10:45:08 -0800
